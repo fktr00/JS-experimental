@@ -1,0 +1,22 @@
+{
+  "name": "test1",
+  "version": "0.0.1",
+  "description": "Testing some approaches",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fktr00/JS-experimental.git"
+  },
+  "author": "fktr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fktr00/JS-experimental/issues"
+  },
+  "homepage": "https://github.com/fktr00/JS-experimental#readme",
+  "dependencies": {
+    "@electron/asar": "^3.2.4"
+  }
+}
